@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cda7e546-9610-4a3f-93f1-251f69ac09e8/deploy-status)](https://app.netlify.com/sites/optimistic-cori-8abfab/deploys)
 # Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
